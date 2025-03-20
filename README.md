@@ -1,3 +1,7 @@
+This fork will be deleted once the forked repo merges the open caching PR.
+
+---
+
 # flutter-action
 
 Flutter environment for use in GitHub Actions. It works on Linux, Windows, and
